@@ -1,0 +1,127 @@
+/* typo */
+.header h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 44.46px;
+    color: #ffffff;
+}
+
+.header p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16.46px;
+}
+
+.feature h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 41.46px;
+}
+.feature p{font-family: 'Open Sans', sans-serif; font-size: 18px; line-height: 24px; color: #595858;}
+.feature h3{font-family: 'Open Sans', sans-serif; font-size:25px;font-weight: 400;}
+
+
+.medical h1{ font-family: 'Open Sans', sans-serif; font-size: 34.46px; margin-bottom: 25px; font-weight: 600;}
+.medical p{ font-family: 'Open Sans', sans-serif; font-size: 15px; line-height: 19.22px; color: #595858;}
+.medical h3{ font-family: 'Open Sans', sans-serif; font-size: 25.46px;}
+
+.midtext h1{font-family: 'Open Sans', sans-serif; font-size: 36px; font-weight: 400; margin-bottom: 30px;}
+.midtext p{font-family:'Open Sans', sans-serif; font-size:15px; line-height: 21.22px; margin-bottom:33px; color: #595858;}
+
+
+
+/* **** */
+
+
+
+.navbar{background: transparent !important;}
+
+.navbar ul li{
+    margin-right: 50px;
+}
+
+.navbar ul li a{
+    color: #ffffff !important;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 16.46px;
+}
+
+.navbtn{
+    margin-left: 28px;
+    border-radius: 50px;
+    background: #000 !important;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 16.46px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.header{
+    background: url(../images/herobg.jpg) center center no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+
+.textarea{width: 450px;}
+.textarea p{margin-bottom: 36px;}
+.textarea img{margin-right: 12px;}
+
+.imgarea img{margin-top: 70px;}
+
+
+
+
+/* feature */
+
+.feature-row{margin-top: 170px;}
+.icon img{margin-right: 20px; margin-top: 6px;}
+.icongrid{margin-top: 65px;}
+.icongrid p{font-size: 16.46px; line-height: 18.22px;}
+
+.mymargin{margin-top: 85px;}
+
+
+
+/*  */
+.health{margin-left: 40px;}
+.info{font-family: 'Open Sans', sans-serif; font-size: 15px; line-height: 21.22px;}
+.mdbg{background: #eff5ef; padding-top: 93px; margin-top: 87px; padding-bottom: 87px;} 
+.medical-btn{background: #62a1e4;  font-family: 'Open Sans', sans-serif; border-radius: 50px; border: none !important;font-size: 14px; font-weight: 600; padding: 10px 24px; text-transform: uppercase;}
+.medical-btn:hover{background:#68ebf5 !important;}
+
+
+
+/*  */
+.treatment{margin-top: 121px;}
+.midtext{margin-left: 68px;}
+
+
+
+/*  */
+.child-text h1{font-size: 34.46; font-family:'Open Sans', sans-serif; margin-bottom: 21px;}
+.child-text p{ font-size: 15px; line-height: 18.22px; color:#595858;}
+.mar{margin-bottom: 28px;}
+.child-text{padding-right:84px;}
+
+
+/*  */
+.cont-mar{margin-top: 87px;}
+
+
+
+/*  */
+.footer p{font-family:'Open Sans', sans-serif; font-size: 15px; line-height: 19.22px;}
+.footer h1{font-family: 'Open Sans', sans-serif; font-size: 33px; }
+.footer h2{font-family:'Open Sans', sans-serif; font-size:21px; margin-bottom: 31px;}
+.foot{background:#60ad9e; padding-top: 93px; margin-top: 87px; padding-bottom: 87px; color: #ffffff;} 
+.footer li{margin-bottom: 15px;}
+.footer a{margin-right: 8px;}
+
+
+
+.btn{
+    
+}
+
